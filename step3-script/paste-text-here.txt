@@ -2,12 +2,17 @@ This will be my tagline:
 
 This will be my introductory text, a paragraph(s) totalling at least 150 words that welcome user, state the goal of the portfolio website, and describe my ambitions and something positive I feel about working in web:
 
-Here is a piece description for one piece that my portfolio will show, following the format outlined on Blackboard: 
-Title & Type of Site:
-Talent Showcased: 
-Objective: 
-Target Audience: 
-Highlights: 
-1)
-2)
-3)
+My name is Connor White. I am a Web Designer from Pittsburgh, Pennsylvania. I obtained two Bachelor of Fine Art degrees from Edinboro University of Pennsylvania, one in Drawing and the other in Printmaking. To follow the future of creativity and design to a digital platform, I went to Pittsburgh Technical College to obtain an Associate in Science Degree in Multimedia Technologies with a concentration in Web Design and Development.  With these tools under my belt, I am able to create progressive and beautiful websites.
+
+I work heavily in HTML5 and CSS to create graphically and visually strong websites that engage users and clients. I find being based in traditional design and art, that the process of design and working towards the perfect aesthetic is one of the most important elements of a project. I use other languages such as JavaScript to further my designs to pull the user into the experience.  From the gallery to the web, creativity has no bounds when I design, and the web is the perfect canvas to demonstrate my abilities.
+
+
+Here is a piece description for one piece that my portfolio will show, following the format outlined on Blackboard:
+Title & Type of Site: The Butcher’s Pick
+Talent Showcased: Interactivity, Design
+Objective: Create and purchase a butcher inspired meat package
+Target Audience: General Audience
+Highlights:
+1)Created a user experience that makes the creation of product to checkout seamless and is formatted for smart phones on either landscape or portrait orientation.
+2)Custom product assets were created to give a unique feel when the user adds their chosen selection to the cart.
+3)All the user’s choices are stored in variables so when they make changes in their cart, regardless of where they are in the process, the changes are made in real time.
