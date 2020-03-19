@@ -1,1 +1,3 @@
 Paste all the body copy from your style comps here:
+
+Talent Showcased: Responsive Layout, Mobile Layout, and InteractivityObject: Sell ReptilesTarget Audience: Teenagers, young adults and adultsHighlights:	• Imagery of the reptiles that look so realistic as if you could feel their bodies.	• A site that has code that takes what you want to order, stores it in a database, 		that then remembers what you ordered.	• A subtle yet attractive color palette that gives you a reptile feel
