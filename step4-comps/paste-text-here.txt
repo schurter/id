@@ -1,1 +1,16 @@
 Paste all the body copy from your style comps here:
+My Work
+Steel Incline Reality
+
+Talent Showcased: Responsive Layout, Front-end Development
+ 
+Objective: Give users the ability to find the location, pricing, and features for specific houses within the Pittsburgh area 
+
+Target Audience: Young adults, adults 
+
+Highlights: 
+1) Real estate listings are laid out on a convenient grid that allows users to compare and contrast multiple housing locations at the same time.
+2) The palette and imagery are opulent and bold, catering to an adult target audience.
+3) MySQL query language is used to store data in a database.
+4) The Content Management System made with PHP allows the site administration to create and delete house postings as necessary. If you would like to log in, the username and password are “boss” and “boss”.
+5) Angled lines, representing the angle at which Pittsburgh's “inclined” mountainside cable car moves, are repeated as a unifying design element throughout the site, such as in the buttons inside of the listings.
