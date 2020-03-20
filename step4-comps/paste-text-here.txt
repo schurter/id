@@ -1,1 +1,34 @@
 Paste all the body copy from your style comps here:
+My name is
+CONNOR WHITE
+I am a Web Designer from Pittsburgh, Pennsylvania. I obtained two Bachelor of Fine Art degrees from Edinboro University of Pennsylvania, one in Drawing and the other in Printmaking. To follow the future of creativity and design to a digital platform, I went to Pittsburgh Technical College to obtain an Associate in Science Degree in MultimediaTechnologies with a concentration in Web Design and Development.  With these tools under my belt, I am able to create progressive and beautiful websites.
+
+I work heavily in HTML5 and CSS to create graphically and visually strong websites that engage users and clients. With my extensive background in traditional design and art, I place a great deal of importance on the process of design and working towards the aesthetic perfect for each project. I use other languages such as JavaScript to add interactivity my designs to pull the user into the experience.  Whether it is to be viewed in a gallery or on a device screen, creativity has no bounds when I design, and the web is the perfect canvas on which to demonstrate my abilities.
+Professional/Quality/Seamless
+Energized/Modern/Efficient
+Personal/Inviting/WordPress
+ MODERN INSPIRATION. ARTISTIC DESIGN. DIGITAL IMPLEMENTATION.
+ The Butcher’s Pick: Meat Package Builder
+
+Talent Showcased:
+Interactivity, Design
+
+Objective:
+Create and purchase a butcher-inspired meat package
+
+Target Audience:
+Adults
+
+Highlights:
+Created a user experience that makes the creation of product to checkout seamless and is formatted for smart phones on either landscape or portrait orientation.
+
+Custom product images were created to give a
+personalized feel when the user adds their chosen
+selection to the cart.
+
+All the user’s choices are stored in localStorage variables using JavaScript so when they make changes in their cart, regardless of where they are in the process, the changes are made in real time and recalled on later pages.
+EMAIL:
+connorjeffreywhite@gmail.com
+
+TELEPHONE:
+724-612-8410
