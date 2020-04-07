@@ -1,13 +1,14 @@
-This will be my tagline:
+This will be my tagline: Responsive Web Development Made Simply
 
-This will be my introductory text, a paragraph(s) totalling at least 150 words that welcome user, state the goal of the portfolio website, and describe my ambitions and something positive I feel about working in web:
+This will be my introductory text, a paragraph(s) totalling at least 150 words that welcome user, state the goal of the portfolio website, and describe my ambitions and something positive I feel about working in web: Hello! My name is Grant Rossi. I am a student at Pittsburgh Technical College currently pursuing my Associate in Science Degree with a Concentration in Web Design and Development. Ever since high school, I have been interested in the sites that we use on a day to day basis. I began my education in 9th grade and knew I wanted this to become my career. I am proficient in HTML5, CSS, SASS, JavaScript and have working skills in MySQL and PHP. I enjoy working with motivated people that are excited to create a new product for the client. Design and development are elements that surrounds us every day and it is important to make sure that when creating a new product, it is functional, accessible, and engaging. In my portfolio below, I have prepared multiple projects that I have worked on in the past few years that demonstrate responsiveness, functionality, and a good design sense.
 
-Here is a piece description for one piece that my portfolio will show, following the format outlined on Blackboard: 
-Title & Type of Site:
-Talent Showcased: 
-Objective: 
-Target Audience: 
-Highlights: 
-1)
-2)
-3)
+Here is a piece description for one piece that my portfolio will show, following the format outlined on Blackboard:
+Title & Type of Site: Steel Incline Reality
+Talent Showcased: Responsive Layout, Front-end Development
+Objective: Give users the ability to find pricing for housing within the Pittsburgh area
+Target Audience: Young adults, adults
+Highlights:
+1) A grid layout was chosen as it allowed users to compare and contrast multiple housing locations at the same time.
+2) The palette and imagery are opulent and bold, catering to an adult target audience.
+3) MySQL query language allows the site administration create and delete job postings as necessary.
+4) The Pittsburgh Incline’s “incline” is repeatedly throughout the site such as in the buttons inside of the listings.
