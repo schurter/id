@@ -1,0 +1,1 @@
+Images go in this folder. Number them to correspond with the text.
