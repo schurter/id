@@ -1,13 +1,14 @@
 This will be my tagline:
+Beautiful creative solutions
 
-This will be my introductory text, a paragraph(s) totalling at least 150 words that welcome user, state the goal of the portfolio website, and describe my ambitions and something positive I feel about working in web:
+Hello, my name is Madeline Subetto and I’m very confident in the work that I’ve done in the past 2 years. I’v been working with the web for 4 years. I went to Pittsburgh Technical College to achieve my Associate in Science Degree in Multimedia Technologies with Concentration in Web Design and Development. I am proficient in HTML, CSS, JavaScript, PhP, and MySQL. I’m also knowledgeable in Photoshop, Illustrator, Indesign, DreamWeaver and all Microsoft office platforms. Even with the web world changing so fast I feel that I can keep up well and learn quickly. Coding is a passion of mine and I look forward to furthering my knowledge.
 
-Here is a piece description for one piece that my portfolio will show, following the format outlined on Blackboard: 
-Title & Type of Site:
-Talent Showcased: 
-Objective: 
-Target Audience: 
-Highlights: 
-1)
-2)
-3)
+
+Title & Type of Site: Million Reptillian Reptile E-Commerce Website
+Talent Showcased: Responsive Layout, Mobile Layout, and Interactivity
+Object: Sell Reptiles
+Target Audience: Teenagers, young adults and adults
+Highlights:
+	•	Imagery of the reptiles that look so realistic as if you could feel their bodies.
+	•	A site that has code that takes what you want to order, stores it in a database, that then remembers what you ordered.
+	•	A subtle yet attractive color palette that gives you a reptile feel
