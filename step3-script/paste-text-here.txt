@@ -1,13 +1,14 @@
-This will be my tagline:
+This will be my tagline: Composed design with a touch of genius
 
-This will be my introductory text, a paragraph(s) totalling at least 150 words that welcome user, state the goal of the portfolio website, and describe my ambitions and something positive I feel about working in web:
+My name is Jeffrey Lakes Jr, I am a front-end web developer, graphic designer, and a some between. I aim to accurately show my developing skillset, my design capabilities, and technical aptitude in the pieces you will find below. I love to make projects that fuel inspiration and spark ingenuity.
 
 Here is a piece description for one piece that my portfolio will show, following the format outlined on Blackboard: 
-Title & Type of Site:
-Talent Showcased: 
-Objective: 
-Target Audience: 
+Title & Type of Site: Brixton Park Glasses Co.
+Talent Showcased: Design, Front-end Development
+Objective: Allow customers to browse and purchase various options of eyewear
+Target Audience: Teenagers and Young Adults
 Highlights: 
-1)
-2)
-3)
+- Imagery promotes a professional color palette that is repeated consistently.
+- Design techniques with CSS merge a very modern, yet classic environment through the experience of the entire website.
+- Page layout is manufactured in PHP to guide users through the website. 
+- The navigation is simple and leads to a “two-click” web design, structured for seamless browsing.
