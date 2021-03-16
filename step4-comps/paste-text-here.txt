@@ -1,1 +1,17 @@
 Paste all the body copy from your style comps here:
+
+
+a | home | about me | contact | my work
+
+
+h1 - BRIXTON PARK GLASSES CO.
+h3 - e-commerce site
+
+h2 - Talent Showcased: Design, Front-end Development
+h2 - Objective: Allow customers to browse and purchase various options of eyewear
+h2 - Target Audience: Teenagers and Young adults
+h2 - Highlights: 
+            - Imagery highlights a professional color palette that is repeated in the site consistently.
+            - Transition and transform CSS techniques are used across the website to have user-engaged interactivity.
+            - Product data is stored and recieved from PHP, with a functioning shopping cart.
+            - The navigaiton is simple and takes the user to desired location is two clicks or less.
