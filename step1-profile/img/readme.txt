@@ -1,1 +1,0 @@
-JPGs go in this folder
