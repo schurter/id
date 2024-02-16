@@ -1,1 +1,1 @@
-JPGs go in this folder
+WEBPs or JPGs go in this folder
