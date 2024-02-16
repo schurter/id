@@ -2,7 +2,7 @@ This will be my tagline:
 
 This will be my introductory text, a paragraph(s) totalling at least 150 words that welcome user, state the goal of the portfolio website, and describe my ambitions and something positive I feel about working in web:
 
-Here is a piece description for one piece that my portfolio will show, following the format outlined on Blackboard: 
+Here is a piece description for one piece that my portfolio will show, following the format outlined on Brightspace: 
 Title & Type of Site:
 Talent Showcased: 
 Objective: 
